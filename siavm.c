@@ -2,7 +2,7 @@
 //  siavm.c
 //  Assignment4
 //
-//  Created by 秦玮蔚 on 2020/6/12.
+//  Created by Weiwei Qin on 2020/6/12.
 //  Copyright © 2020 Qin Weiwei. All rights reserved.
 //
 
